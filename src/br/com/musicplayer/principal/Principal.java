@@ -5,7 +5,7 @@ import br.com.musicplayer.classes.Musica;
 import br.com.musicplayer.classes.Podcast;
 
 public class Principal {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Musica numb = new Musica();
         numb.setTitulo("Numb - Linkin park");
         numb.setArtista("Chester Bennington");
