@@ -18,7 +18,6 @@ public class Principal {
             numb.curtir();
         }
 
-
         Podcast flow = new Podcast();
         flow.setTitulo("Flow Podcast");
         flow.setHost("Igor Rodrigues Coelho");
